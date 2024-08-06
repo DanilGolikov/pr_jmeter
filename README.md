@@ -29,3 +29,14 @@ Below are the full replacement paths for the .class files:
 - JSyntaxTextArea$1.class
 
 New fields for theme configuration have also appeared in jmeter.properties. It is not mandatory to insert them.
+![image](https://github.com/user-attachments/assets/f38a068c-019e-4e14-a858-40779aa777b2)
+![image](https://github.com/user-attachments/assets/b0fb224c-95f6-451b-976e-37486707e0f6)
+![image](https://github.com/user-attachments/assets/5aae8adc-1a02-441b-b00b-a07b69c55dec)
+![image](https://github.com/user-attachments/assets/dec9d2ca-4166-4d04-b0bf-f9fccb26d78e)
+![image](https://github.com/user-attachments/assets/8f259a6d-0c6f-4a1a-a6eb-4dac33ac3a7e)
+
+
+
+
+
+
