@@ -4,7 +4,7 @@ Huge thanks to [@KingRabbid](https://github.com/KingRabbid) for adding the funct
 These changes add a lot of new themes for JMeter.
 The changes were extracted and compiled for JMeter 5.6.3 from pull request #6312 in the official JMeter repository (https://github.com/apache/jmeter/pull/6312).
 All .class files need to be placed in %jmeter%/lib/ext/ApacheJMeter_core.jar (the .jar file can be opened with 7z or WinRar).
-Additionally, the files flatlaf-3.4.1.jar and flatlaf-intellij-themes-3.4.1.jar need to be placed in %jmeter%/lib.
+Additionally, the files **flatlaf-3.4.1.jar** and **flatlaf-intellij-themes-3.4.1.jar** need to be placed in %jmeter%/lib.
 Below are the full replacement paths for the .class files:
 
 ### ApacheJMeter_core.jar\org\apache\jmeter
